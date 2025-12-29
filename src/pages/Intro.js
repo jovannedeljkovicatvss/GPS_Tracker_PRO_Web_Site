@@ -51,7 +51,7 @@ const Intro = () => {
                 Preuzmi Aplikaciju
               </a>
               <a 
-                href="https://www.youtube.com" 
+                href="https://www.youtube.com/watch?v=fw41ATwU4Dg" 
                 className="btn btn-secondary"
                 target="_blank" 
                 rel="noopener noreferrer"
